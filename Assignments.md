@@ -3,44 +3,30 @@
 # 1 Certification Requirement
 > - AI Fluency for Students
 >
-> Kindly submit the verification link here 
+> [http://verify.skilljar.com/c/natgbrtvizma]
 > - Introduction to Agent Skills
 >
-> Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
+> [http://verify.skilljar.com/c/siga2f8fjuc8]
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - GitHub Repo URL:[https://github.com/DivyaPrabha19/AIML-One-Credit]
 >
-> - Kindly submit the Vercel Deployment URL
+> - Vercel Deployment URL:[divyaprabhashreeportflio-73k0tf6ui-divyas-projects-c6a17879.vercel.app]
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - GitHub Pages (Documentation) URL:[https://github.com/DivyaPrabha19/AIML-One-Credit/blob/main/DOCS.md]
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> - GitHub Repo URL: [https://github.com/SAKTHIVEL280/taskflow.git]
 >
-> - Kindly submit the Live Application URL (Domain)
->
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - Live Application URL (Domain): [https://sakthivel280.github.io/taskflow/]
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
-> 
-> [LinkedIn post URL]
+> [[LinkedIn post URL](https://www.linkedin.com/feed/update/urn:li:activity:7444659118453366784/?originTrackingId=LaVuv9H4qlNCq%2Bdday9MXg%3D%3D)]
 
-## For Second Year Buddies
-
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
+# 5 GitHub Profile README
+> GitHub Profile README URL: [https://github.com/DivyaPrabha19](https://github.com/DivyaPrabha19/DivyaPrabha19/blob/main/README.md)
