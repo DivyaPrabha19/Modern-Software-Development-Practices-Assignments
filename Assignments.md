@@ -13,7 +13,7 @@
 >
 > - GitHub Repo URL:[https://github.com/DivyaPrabha19/AIML-One-Credit]
 >
-> - Vercel Deployment URL:divyaprabhashreeportflio-73k0tf6ui-divyas-projects-c6a17879.vercel.app
+> - Vercel Deployment URL:[divyaprabhashreeportflio-73k0tf6ui-divyas-projects-c6a17879.vercel.app]
 >
 > - GitHub Pages (Documentation) URL:[https://github.com/DivyaPrabha19/AIML-One-Credit/blob/main/DOCS.md]
 
